@@ -1,20 +1,340 @@
-![logo](https://github.com/Rahul-639/Rahul-639/blob/main/heddr.png)
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate full stack developer & programmer with Ai exertion</h3>
-
-<p align="left"> <a href="https://twitter.com/twitter" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hacker rank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Rahul-639/Rahul-639/blob/main/heddr.png" alt="Rahul Pandit Banner" width="100%">
+</p>
+<img src="https://komarev.com/ghpvc/?username=rahul-639&style=for-the-badge&color=blue">
+</p>  <h1 align="center">Hi 👋, I'm Rahul Pandit</h1>
+<h3 align="center">
+  Full Stack Developer || Java Programmer || AI & Machine Learning Engineer
+</h3>
+<p align="center">
+Building AI-powered applications, modern web solutions, and intelligent software to solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Java+Programmer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+</p>
+<h2 align="center">
+  
+🔗 Connect with Me 🌎
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-639&show_icons=true&locale=en&layout=compact" alt="rahul-639" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/rahul-pandit-84718b318" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:your_email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rahul-639">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+</p>
+<h2 align="center">💫 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-639&show_icons=true&locale=en" alt="rahul-639" /></p>
+<table align="center">
+<tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-639&" alt="rahul-639" /></p>
+<td width="58%" valign="top">
+
+```yaml
+Name: Rahul Pandit
+
+Education:
+  B.Tech Computer Science & Engineering (AI & ML)
+
+Current Role:
+  AI & Machine Learning Engineer
+  Full Stack Developer
+
+Programming:
+  Java
+  Python
+  C++
+  JavaScript
+
+Tech Stack:
+  React
+  Node.js
+  TensorFlow
+  PyTorch
+  MongoDB
+  MySQL
+
+Currently Learning:
+  Large Language Models (LLMs)
+  Generative AI
+  Cloud Computing (AWS)
+  System Design
+
+Goal:
+  Build Intelligent AI Applications
+  Contribute to Open Source
+```
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20Developer-2025-black?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<h2 align="center">📚 Skills & Activities 🖥️ </h2>
+
+<table align="center">
+
+<tr>
+<td><b>💻 Programming</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,bash"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ Cloud</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm"/>
+
+</td>
+</tr>
+
+</table>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-639&theme=tokyonight">
+
+</p>
+
+  <h2 align="center">📊 GitHub Statistics </h2>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul-639&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-639&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-639&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<h1 align="center">
+🚀 Softwere & AI Base  Projects
+</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Real+World+AI+Applications;Machine+Learning+Projects;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Always+Learning+New+Technologies"/>
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656972-3b7b3d1d-d0b1-4fa3-a7fd-f1d5f7f8f76f.gif" width="700">
+</p>
+<table>
+<tr>
+<td width="50%">
+  
+## 😴 Drowsiness Detection System
+
+AI-powered driver drowsiness detection system using **Computer Vision** and **Deep Learning** to improve road safety through real-time eye movement and facial landmark analysis.
+
+### ⚙️ Tech Stack
+
+`Python` `OpenCV` `TensorFlow` `MediaPipe`
+
+🔗 **Repository:** Coming Soon
+
+</td>
+
+<td width="50%">
+
+## 🌍 AI-Powered Air Quality Prediction
+
+A Machine Learning application that predicts the **Air Quality Index (AQI)** using environmental datasets and provides intelligent pollution forecasting.
+
+### ⚙️ Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `Matplotlib`
+
+🔗 **Repository:** Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 😊 Sentiment Analysis
+
+Natural Language Processing project that analyzes **social media comments** and classifies them into Positive, Negative, or Neutral sentiments.
+
+### ⚙️ Tech Stack
+
+`Python` `NLTK` `TextBlob` `Pandas`
+
+🔗 **Repository:** Coming Soon
+
+</td>
+
+<td>
+
+## 🎵 AI Audio Classification
+
+Deep Learning model for automatically classifying different categories of audio signals using advanced feature extraction techniques.
+
+### ⚙️ Tech Stack
+
+`Python` `TensorFlow` `Librosa` `NumPy`
+
+🔗 **Repository:** Coming Soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🤖 AI Chatbot
+
+An intelligent conversational AI chatbot capable of answering user queries using **Large Language Models (LLMs)** and Natural Language Processing.
+
+### ⚙️ Tech Stack
+
+`Python` `LangChain` `OpenAI API` `FastAPI`
+
+🔗 **Repository:** Coming Soon
+
+</td>
+
+</tr>
+
+</table>
+<h2 align="center">
+⚡ Current Focus
+</h2>
+
+<p align="center">
+
+🤖 Artificial Intelligence & Machine Learning • 🧠 Deep Learning • 👁️ Computer Vision • 💬 Natural Language Processing • ☁️ Cloud Computing
+
+</p>
+<h2 align="center">
+📈 Project Progress
+</h2>
+
+<p align="center">
+
+🟢 Drowsiness Detection &nbsp;&nbsp;&nbsp; ██████████ 100%
+
+🟢 Air Quality Prediction &nbsp;&nbsp; █████████░ 90%
+
+🟢 Sentiment Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████ 100%
+
+🟡 AI Audio Classification &nbsp; █████████░ 92 % 
+
+🟡 AI Chatbot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████░░░ 84% 
+</p>
+
+<h2 align="center"> ➕ Contribution Activity ➖ </h2>
+<p align="center">
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-639&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+<!--==================== Contribution Snake ====================-->
+
+<h2 align="center">🐍 Contribution Snake Animation</h2>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<h2 align="center">
+  Thank You for Visiting ❤️
+</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Thank+You+for+Visiting+My+GitHub+Profile!;Building+Intelligent+AI+Solutions;Full+Stack+Developer+%7C+AI+Engineer;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750221-213bd1a3-024e-4c3a-b2b7-7f3c3e9b2d67.gif" width="100%">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00C2FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-1E40AF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<h3 align="center">
+💙 Thanks for stopping by!
+
+
+
